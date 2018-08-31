@@ -27,6 +27,21 @@ body {
 	clear: both;
 }
 
+input[type="radio"]{
+  margin: 0 10px 0 10px;
+}
+
+.footer {
+	background: green;
+	text-align: center;
+	font-size: 14px;
+	color: grey;
+	padding: 5px;
+	right: 0;
+	left: 0;
+	bottom: 0;
+}
+
 /* Large desktops and laptops */
 @media (min-width: 1200px) {
 
